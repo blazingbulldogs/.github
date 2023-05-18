@@ -2,6 +2,4 @@
 
 ![The Team 581 logo](https://github.com/team581/.github/blob/main/banner.png)
 
-Team 581 is a competitive high school robotics team based out of San Jose High School here in San Jose, CA.
-
-Founded in 2001, we've been competing in the FIRST Robotics Competition (FRC) every year since then.
+Team 581 Blazing Bulldogs bring STEM and career opportunities to our school and community by leveraging a combination of hands-on, project-based education and competitiveness to perform at a high level on and off the field.
